@@ -1,1 +1,1 @@
-# git-cdd-lab
+# git-class-lab
